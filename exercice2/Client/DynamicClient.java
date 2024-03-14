@@ -1,4 +1,5 @@
-//Client dynamique
+package Client;
+
 import java.rmi.server.RMIClassLoader;
 import java.util.Properties;
 import java.util.*;
